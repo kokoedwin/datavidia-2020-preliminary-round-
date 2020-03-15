@@ -9,3 +9,5 @@ Data used in this modeling process is the flight Jakarta(CGK) to Bali(DPS) + hot
 
 
 Leaderboard of Preliminary Round: https://www.kaggle.com/c/datavidia2019/leaderboard
+
+Competed with team BEBAS (me, M. Ridho Ananda and Lulu Ilmaknun Qurotaini)
